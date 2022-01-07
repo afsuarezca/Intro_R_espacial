@@ -34,6 +34,12 @@ https://rpubs.com/joser/objetos
 Para el segundo día, un conocimiento básico sobre conceptos relacionados con sistemas de 
 coordenadas y proyecciones geográficas será ventajoso, aunque no esencial.  
 
+## Instructores  
+ 
+Dr. Felipe Suárez-Castro. Universidad de Griffith, Australia – Sociedad Colombiana de Mastozoología  
+Dr. Diego Lizcano. Sociedad Colombiana de Mastozoología 
+Contacto: felipesuarezca@gmail.com  
+
 ## Créditos
 
 Algunos ejercicios presentados en este curso están adaptados del excelente curso desarrollado por C.J. Brown, D. Schoeman, A.J. Richardson y B. Venables, el cual se encuentra disponible en:
