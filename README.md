@@ -26,20 +26,19 @@ Los datos requridos para completar el curso pueden ser descargados de la carpeta
  
 ## Requisitos
  
-Computador con acceso a internet y R y RStudio previamente instalados. La instalación del programa 
-no se explicará durante el curso.  
+Computador con acceso a internet y R y RStudio previamente instalados. La instalación del programa no se explicará durante el curso. Si aún no los tiene instalados siga [este tutorial.](https://www.youtube.com/watch?v=bBkhJxutIPw)  
  
-La experiencia requerida en R es mínima, sin embargo, se espera que los participantes estén 
-familiarizados con el siguiente tipo de objetos básicos R: vectores, listas y dataframes. 
-https://rpubs.com/joser/objetos  
+La experiencia requerida en R es mínima, sin embargo, se espera que los participantes estén familiarizados con el los de objetos básicos de R: vectores, dataframes y listas. [En este enlace](https://rpubs.com/joser/objetos) puedes recordar cuales son.  
  
-Para el segundo día, un conocimiento básico sobre conceptos relacionados con sistemas de 
-coordenadas y proyecciones geográficas será ventajoso, aunque no esencial.  
+Para el segundo día, un conocimiento básico sobre conceptos relacionados con sistemas de coordenadas y proyecciones geográficas será ventajoso, aunque no esencial. En [este enlace](https://docs.qgis.org/2.8/es/docs/gentle_gis_introduction/coordinate_reference_systems.html) encuentras algunos recursos útiles.    
+
 
 ## Instructores  
  
 Dr. Felipe Suárez-Castro. Universidad de Griffith, Australia – Sociedad Colombiana de Mastozoología  
-Dr. Diego Lizcano. Sociedad Colombiana de Mastozoología 
+
+Dr. [Diego J. Lizcano](http://dlizcano.github.io/). Sociedad Colombiana de Mastozoología.
+
 Contacto: felipesuarezca@gmail.com  
 
 ## Créditos
