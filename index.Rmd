@@ -19,6 +19,12 @@ html_document:
 ![](taller_R.png){width=50% height=50%}
 </center>
 
+## !Nueva fecha de curso ! 9 y 10 de julio de 2022
+
+El próximo 9 y 10 de julio habrá una nueva edición de nuestro curso en español para la visualización de datos espaciales en R. Es GRATUITO para estudiantes socios de la sociedad colombiana de mastozoología. El costo es muy asequible para profesionales (COP $100,000 para socios y COP $200,000 para no socios). 
+
+Formato de inscripción: https://forms.gle/Nya1PA2ZTBX1zKnc6
+
 ## Objetivo
 
 El objetivo de este curso es proporcionar capacitación en el procesamiento, visualización y mapeo de  datos espaciales utilizando R. El curso se centra en un pequeño conjunto de paquetes populares para  estas tareas, muchos de los cuales se extraen de una colección de paquetes denominada tidyverse.  Mediante  el  uso  de  un  estudio  de  caso  con  mamíferos  neotropicales,  los  participantes  de  este  aprenderán  herramientas  básicas  sobre  cómo  convertir  fácilmente  sus  datos  en  un  formato  "ordenado", lo que facilita la verificación y el análisis de errores. También crearemos algunos gráficos  para resumir los datos y exploraremos opciones para la generación de mapas. 
